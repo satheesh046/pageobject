@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-01-05T15:15:28 IST" name="Default suite" finished-at="2024-01-05T15:15:41 IST" duration-ms="12619">
+    <groups>
+    </groups>
+    <test started-at="2024-01-05T15:15:28 IST" name="Default test" finished-at="2024-01-05T15:15:41 IST" duration-ms="12619">
+      <class name="mytestng.datadriver">
+        <test-method is-config="true" signature="login()[pri:0, instance:mytestng.datadriver@1ce24091]" started-at="2024-01-05T15:15:28 IST" name="login" finished-at="2024-01-05T15:15:30 IST" duration-ms="2266" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="details(java.lang.String,java.lang.String)[pri:0, instance:mytestng.datadriver@1ce24091]" started-at="2024-01-05T15:15:31 IST" name="details" data-provider="logindata" finished-at="2024-01-05T15:15:33 IST" duration-ms="2151" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[sath]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[how]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- details -->
+        <test-method signature="details(java.lang.String,java.lang.String)[pri:0, instance:mytestng.datadriver@1ce24091]" started-at="2024-01-05T15:15:33 IST" name="details" data-provider="logindata" finished-at="2024-01-05T15:15:35 IST" duration-ms="1976" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[eesh]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[when]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- details -->
+        <test-method signature="details(java.lang.String,java.lang.String)[pri:0, instance:mytestng.datadriver@1ce24091]" started-at="2024-01-05T15:15:35 IST" name="details" data-provider="logindata" finished-at="2024-01-05T15:15:36 IST" duration-ms="1601" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[vs]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[do]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- details -->
+        <test-method signature="details(java.lang.String,java.lang.String)[pri:0, instance:mytestng.datadriver@1ce24091]" started-at="2024-01-05T15:15:36 IST" name="details" data-provider="logindata" finished-at="2024-01-05T15:15:38 IST" duration-ms="1442" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[vsat]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[done]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- details -->
+        <test-method signature="details(java.lang.String,java.lang.String)[pri:0, instance:mytestng.datadriver@1ce24091]" started-at="2024-01-05T15:15:38 IST" name="details" data-provider="logindata" finished-at="2024-01-05T15:15:39 IST" duration-ms="1443" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[hello]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[good]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- details -->
+        <test-method signature="details(java.lang.String,java.lang.String)[pri:0, instance:mytestng.datadriver@1ce24091]" started-at="2024-01-05T15:15:39 IST" name="details" data-provider="logindata" finished-at="2024-01-05T15:15:41 IST" duration-ms="1585" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[tamil]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[infomat]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- details -->
+        <test-method is-config="true" signature="quit()[pri:0, instance:mytestng.datadriver@1ce24091]" started-at="2024-01-05T15:15:41 IST" name="quit" finished-at="2024-01-05T15:15:41 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+      </class> <!-- mytestng.datadriver -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
